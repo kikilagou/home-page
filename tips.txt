@@ -1,0 +1,2 @@
+This file contains tips on solving algorithmic questions that I have accumulated from solving a bunch of leetcode problems.
+There are common patterns, I will find them and report. Truthfully, fully, because noone can learn if someone doesn't show you. 
