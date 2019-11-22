@@ -7,6 +7,10 @@ a {
     color: white;
 }
 
+.experience-group {
+    margin-bottom: 1.5em;
+}
+
 .experience-group p{
     margin: 0;
     padding: 0;
