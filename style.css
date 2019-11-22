@@ -6,3 +6,8 @@ body {
 a {
     color: white;
 }
+
+.experience-group p{
+    margin: 0;
+    padding: 0;
+}
