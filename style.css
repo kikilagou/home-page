@@ -2,3 +2,7 @@ body {
     background-color: #fc0;
     font-family: Roboto Mono;
 }
+
+a {
+    color: white;
+}
