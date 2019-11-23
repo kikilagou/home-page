@@ -11,7 +11,16 @@ a {
     margin-bottom: 1.5em;
 }
 
-.experience-group p{
+.experience-group p {
     margin: 0;
     padding: 0;
+}
+
+.project-card {
+    position: relative;
+    width: 180px;
+    height: 80px;
+    box-shadow: 1px 1px 5px 1px rgba(255, 255, 255, 0.5);
+    /* x-offset y-offset blur size color */
+
 }
