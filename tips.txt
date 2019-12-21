@@ -3,3 +3,5 @@ There are common patterns, I will find them and report. Truthfully, fully, becau
 
 On my daily job I have contact with the following tools and technologies: java spring boot, docker, helm, jenkins.
 I am learning how to use these tools as part of my team and try to take part in the CICD pipeline.
+
+trying to figure out git issue
