@@ -12,6 +12,10 @@ a {
     color: white;
 }
 
+a:hover {
+    color: rgb(25, 0, 255);
+}
+
 .experience-group {
     margin-bottom: 1.5em;
 }

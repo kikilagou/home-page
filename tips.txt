@@ -1,7 +1,0 @@
-This file contains tips on solving algorithmic questions that I have accumulated from solving a bunch of leetcode problems.
-There are common patterns, I will find them and report. Truthfully, fully, because noone can learn if someone doesn't show you.
-
-On my daily job I have contact with the following tools and technologies: java spring boot, docker, helm, jenkins.
-I am learning how to use these tools as part of my team and try to take part in the CICD pipeline.
-
-trying to figure out git issue
