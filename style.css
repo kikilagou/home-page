@@ -13,7 +13,11 @@ a {
 }
 
 a:hover {
-    color: rgb(25, 0, 255);
+    color: white;
+}
+
+.project:hover {
+    color: rgb(0, 225, 255);
 }
 
 .experience-group {
@@ -32,13 +36,6 @@ a:hover {
     box-shadow: 1px 1px 5px 1px rgba(255, 255, 255, 0.5);
 }
 
-/* 
-.vertical-center {
-    min-height: 100%;
-    min-height: 100vh;
-    display: flex;
-    /* justify-content: center; */
-/* align-items: center; */
 
 .container {
     margin-top: 10%;
@@ -82,7 +79,7 @@ span.emoji {
 }
 
 .fa-github:hover {
-    color: #7bc96f;
+    color: #8551E9;
     cursor: pointer;
 }
 
@@ -96,7 +93,12 @@ span.emoji {
     cursor: pointer;
 }
 
+.fa-file-alt:hover {
+    color: #fd7e14;
+    cursor: pointer;
+}
+
 .fa-envelope:hover {
-    color: #1dcaff;
+    color:#22ff00;
     cursor: pointer;
 }
